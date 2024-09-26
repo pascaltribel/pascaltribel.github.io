@@ -333,6 +333,7 @@ blockquote {
 b,
 strong {
   font-weight: bolder;
+  color: var(--bs-gray-200);
 }
 
 small, .small {
